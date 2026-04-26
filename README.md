@@ -1,4 +1,4 @@
-                             --------------> 🛒 Retail Data Analysis <------------------
+                             --------------> 🛒 RETAIL CASE STUDY ANALYSIS  <------------------
                                       
 ------> Overview <------
 
@@ -20,17 +20,24 @@ This project focuses on analyzing retail data to uncover insights into:
 The goal is to enable  “data-driven decision-making” to improve marketing strategies, inventory planning, and overall customer experience.
 
 Key challenges identified:
+
  🛍️ Product Performance Variability
+ 
 	Lack of visibility into high vs low performing products  
-	Inefficient inventory and marketing decisions  
+	Inefficient inventory and marketing decisions
+	
  👥 Customer Segmentation
+ 
 	No clear grouping of customers based on purchasing behavior  
 	Ineffective targeting and personalization  
+	
  🔁 Customer Behavior Analysis
+ 
 	Limited insights into repeat purchases and loyalty  
 	Difficulty in improving retention strategies  
  
 📊 Key Insights
+
 🟢 High Performing Product
 	Product ID :  51  
 	Product Name : Product_51  
